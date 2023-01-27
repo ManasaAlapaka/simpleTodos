@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.background-con {
+  background-color: #ffc2a0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+}
+.main-heading {
+  color: #ff8542;
+  text-align: center;
+}
+.inner-con {
+  background-color: white;
+  width: 80%;
+  border-radius: 10px;
+  /* padding: 30px; */
+  padding: 10px 30px 10px 30px;
+}
+.un-order-li-con {
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 0;
+}
